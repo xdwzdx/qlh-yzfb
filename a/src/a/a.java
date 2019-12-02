@@ -8,11 +8,7 @@ public class a {
 		System.out.println(i);
 		System.out.println(b);
 		System.out.println(c);
-		
-		
 	}
 	private void test() {
-		// TODO Auto-generated method stub
-		
 	}
 }
